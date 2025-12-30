@@ -499,12 +499,6 @@ tail -f logs/rag_system.log
 python -m cProfile -o profile.stats app.py
 ```
 
-### 📞 Soporte
-
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/sistema-rag-milei/issues)
-- **Documentación**: [Wiki del Proyecto](https://github.com/tu-usuario/sistema-rag-milei/wiki)
-- **Email**: sistema.rag.milei@example.com
-
 ---
 
 ## 🧬 Estructura del Proyecto
@@ -672,13 +666,13 @@ Las contribuciones son bienvenidas! Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-[Tu Perfil](https://linkedin.com/in/tu-perfil)
+
 
 ---
 
 <div align="center">
 
-### 🇦🇷 Desarrollado con ❤️ para la Argentina Digital
+
 
 **[⬆️ Volver al inicio](#-sistema-rag---discursos-de-javier-milei)**
 
@@ -688,3 +682,4 @@ Las contribuciones son bienvenidas! Por favor:
 
 
 </div>
+
