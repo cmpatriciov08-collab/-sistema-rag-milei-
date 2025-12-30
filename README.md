@@ -672,11 +672,7 @@ Las contribuciones son bienvenidas! Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-### 📧 Información de Contacto
-
-- **Email**: sistema.rag.milei@example.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+[Tu Perfil](https://linkedin.com/in/tu-perfil)
 
 ---
 
@@ -689,5 +685,6 @@ Las contribuciones son bienvenidas! Por favor:
 ---
 
 *Última actualización: 16 de Noviembre de 2025*
+
 
 </div>
